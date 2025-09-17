@@ -1,0 +1,11 @@
+{
+  "name": "firebase",
+  "version": "1.0.0",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "firebase": {
+      "command": "npx",
+      "args": ["-y", "firebase-tools@latest", "experimental:mcp"]
+    }
+  }
+}
