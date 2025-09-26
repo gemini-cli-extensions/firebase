@@ -1,4 +1,4 @@
-# 🚀 Firebase Gemini CLI Extension
+# 🚀 Firebase Extension for Gemini CLI
 
 Adding Firebase backend and Gen AI features to your app with the new Gemini CLI extension.
 
@@ -22,8 +22,28 @@ Adding Firebase backend and Gen AI features to your app with the new Gemini CLI 
 
 ### Install
 ```bash
-gemini extensions install https://github.com/[TBD]
+gemini extensions install https://github.com/gemini-cli-extensions/firebase-gemini-cli-extension
 ```
+
+## 🛠️ How to Use This Feature
+
+### `/firebase:init`
+This command provides you with options to set up backend support for your application and helps you implement Gen AI features powered by the Gemini API.
+
+**What it does:**
+- Sets up Firestore as your database
+- Configures Firebase Authentication to secure your app and user data
+- Prepares your app for deployment
+- If building with AI, sets up Firebase AI Logic to manage API keys and securely call the Gemini API
+
+### `/firebase:deploy`
+This command deploys your application to Firebase hosting services.
+
+**What it does:**
+- Automatically analyzes your code to determine the correct Firebase hosting service
+- Works with both static apps and full-stack applications
+- Eliminates guesswork and prevents misconfigured services
+- Handles deployment decisions for you
 
 ## 🤝 Contributing
 
