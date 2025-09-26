@@ -1,7 +1,7 @@
 {
   "name": "firebase",
   "version": "1.0.0",
-  "contextFileName": "GEMINI.md",
+  "contextFileName": "FIREBASE.md",
   "mcpServers": {
     "firebase": {
       "command": "npx",
