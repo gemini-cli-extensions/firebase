@@ -22,7 +22,7 @@ Adding Firebase backend and Gen AI features to your app with the new Gemini CLI 
 
 ### Install
 ```bash
-gemini extensions install https://github.com/gemini-cli-extensions/firebase-gemini-cli-extension
+gemini extensions install https://github.com/gemini-cli-extensions/firebase
 ```
 
 ## 🛠️ How to Use This Feature
