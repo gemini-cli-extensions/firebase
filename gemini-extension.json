@@ -5,7 +5,7 @@
   "mcpServers": {
     "firebase": {
       "command": "npx",
-      "args": ["-y", "firebase-tools@latest", "experimental:mcp"]
+      "args": ["-y", "firebase-tools@latest", "mcp"]
     }
   }
 }
