@@ -1,5 +1,6 @@
 {
   "name": "firebase",
+  "description": "Provision and manage backend, GenAI, and operational infrastructure for your apps with Firebase.",
   "version": "1.0.0",
   "contextFileName": "FIREBASE.md",
   "mcpServers": {
